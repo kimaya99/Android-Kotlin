@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Convert</string>
+    <string name="usd_amount">USD Amount</string>
+    <string name="inr_amount">INR Amount</string>
+    <string name="usd">USD</string>
+    <string name="inr">INR</string>
+    <string name="button">Convert</string>
+</resources>
