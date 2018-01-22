@@ -27,6 +27,7 @@
         android:layout_marginTop="60dp"
         android:ems="10"
         android:hint="@string/usd_amount"
+        android:imeOptions="actionDone"
         android:inputType="textPersonName|numberDecimal"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/clickMe" />
@@ -40,6 +41,7 @@
         android:layout_marginTop="44dp"
         android:ems="10"
         android:hint="@string/inr_amount"
+        android:imeOptions="actionDone"
         android:inputType="textPersonName|numberDecimal"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.476"
